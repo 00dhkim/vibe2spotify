@@ -3,6 +3,10 @@ spotify_add.py
 
 dict를 가진 list 타입의 음악 리스트를 받아서, spotify 웹에서 좋아요에 추가함.
 
+TODO: 생각보다 spotify의 검색엔진이 좋지 않다... 조금 더 고민해보자.
+예시: celebrity 아이유 (OK)
+      celebrity 아이유(IU) (FAIL)
+
 """
 
 import time
